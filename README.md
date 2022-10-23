@@ -1,2 +1,2 @@
 # classwork
-Git instruction of classwork
+Git instructions of classwork
